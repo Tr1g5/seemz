@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated with glade 3.22.1 -->
+<interface>
+  <requires lib="gtk+" version="3.20"/>
+  <object class="GtkMenuItem" id="menu_item_quit">
+    <property name="name">menu_item_seemz</property>
+    <property name="visible">True</property>
+    <property name="can_focus">False</property>
+    <property name="label" translatable="yes">quit</property>
+    <signal name="activate" handler="row_quit" swapped="no"/>
+  </object>
+  <object class="GtkMenu" id="menu_seemz">
+    <property name="name">menu-pop-seemz</property>
+    <property name="visible">True</property>
+    <property name="can_focus">False</property>
+  </object>
+  <object class="GtkStatusIcon" id="statusIcon_seemz">
+    <property name="stock">view-list</property>
+    <property name="icon_name">view-list</property>
+    <property name="tooltip_text" translatable="yes">choose a SeemZ :)</property>
+    <property name="title" translatable="yes">SeemZ</property>
+    <signal name="popup-menu" handler="icon_click" swapped="no"/>
+  </object>
+</interface>
