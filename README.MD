@@ -1,5 +1,7 @@
 # SEEMZ
 ## Choose theme from a desktop icons and menu
+introduction :
+SEEMZ use text file to read line by line your themes and print menu item in consequence and call a bash script to change your preset theme for a wallpaper given.
 - dependances
   - <a href="https://github.com/themix-project/oomox">oomox</a> theme designer, it's a theme and icons generator.
   - <a href="https://github.com/dylanaraps/pywal">pywall</a> Generate and change color-schemes (terminal and wallpaper) on the fly.
