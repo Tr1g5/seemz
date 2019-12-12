@@ -1,11 +1,10 @@
 # SEEMZ
 ## Choose theme from a desktop icons and menu
 - dependances
-  - oomox theme designer, it's a theme and icons generator.
-  - Pywall Generate and change color-schemes on the fly.
-- requires
-  - some chmod +x...
+  - <a href="https://github.com/themix-project/oomox">oomox</a> theme designer, it's a theme and icons generator.
+  - <a href="https://github.com/dylanaraps/pywal">pywall</a> Generate and change color-schemes (terminal and wallpaper) on the fly.
 - How To
+  - check in install folder from the repo, then run setup.sh 
   - when theme and icons are created on oomox, they should be as => oomox-themetype-wallpaperName as themetype is the name of your parent folder for your wallpapers in ~/.SeemZ
   - example :
 
