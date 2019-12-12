@@ -1,6 +1,6 @@
 # SEEMZ
 ## Choose theme from a desktop icons and menu on linux
-introduction :
+
 SEEMZ uses text file to read line by line your themes and print menu item in consequence, then it call a bash script to switch on your preset theme with a random wallpaper found in the folder of this theme.
 - dependances
   - <a href="https://github.com/themix-project/oomox">oomox</a> theme designer, it's a theme and icons generator.
