@@ -7,7 +7,7 @@ SEEMZ uses text file to read line by line your themes and print menu item in con
   - <a href="https://github.com/dylanaraps/pywal">pywall</a> Generate and change color-schemes (terminal and wallpaper) on the fly.
 - before
   - create some theme with oomox, rename them as  => oomox-themetype-wallpaperName as themetype is the name of your parent folder for your wallpapers in ~/.SeemZ
-    ###example :
+  ### example :
 
     ``` shell
       $ ls -R .SeemZ/
@@ -24,11 +24,11 @@ SEEMZ uses text file to read line by line your themes and print menu item in con
       oomox-aenami-eclipse_rouge        oomox-cyber-ghost_in_shell        oomox-aenami-eclipse_rouge_clair
 
     ```
-  -installation
-    - check in install folder from the repo, then run setup.sh, finally write in theme.list your themes line by line.
-preset themes for test can be found in themes_example, ready to be import in oomox with *index.theme* file
-    - create directorys of your themes.
-    - send wish's wallpaper in his themes folder.
+- installation
+  - check in install folder from the repo, then run setup.sh, finally write in theme.list your themes line by line.
+  - create directorys of your themes.
+  - send wish's wallpaper in his themes folder.
 
 ## Note :
+preset themes for test can be found in themes_example, ready to be import in oomox with *index.theme* file
 If you want to "rollback" your theme check at **lxappearance** command. Also i've tried seemz only on manjaro i3, shit can happen :/ 
