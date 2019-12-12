@@ -25,4 +25,4 @@ $ls .themes/
 oomox-aenami-eclipse_rouge        oomox-cyber-ghost_in_shell        oomox-aenami-eclipse_rouge_clair
 
 ```
-preset themes for test can be found in themes_example, ready to be import in oomox *with index.theme file* 
+preset themes for test can be found in themes_example, ready to be import in oomox with *index.theme* file 
