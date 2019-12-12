@@ -4,7 +4,7 @@
   - <a href="https://github.com/themix-project/oomox">oomox</a> theme designer, it's a theme and icons generator.
   - <a href="https://github.com/dylanaraps/pywal">pywall</a> Generate and change color-schemes (terminal and wallpaper) on the fly.
 - How To
-  - check in install folder from the repo, then run setup.sh 
+  - check in install folder from the repo, then run setup.sh, finally write in theme.list your themes line by line.
   - when theme and icons are created on oomox, they should be as => oomox-themetype-wallpaperName as themetype is the name of your parent folder for your wallpapers in ~/.SeemZ
   - example :
 
@@ -23,4 +23,4 @@ $ls .themes/
 oomox-aenami-eclipse_rouge        oomox-cyber-ghost_in_shell        oomox-aenami-eclipse_rouge_clair
 
 ```
-preset themes for test can be found in themes_example, ready to be import in oomox.
+preset themes for test can be found in themes_example, ready to be import in oomox *with index.theme file* 
