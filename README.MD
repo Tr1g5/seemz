@@ -32,3 +32,5 @@ SEEMZ uses text file to read line by line your themes and print menu item in con
 ## Note :
 preset themes for test can be found in themes_example, ready to be import in oomox with *index.theme* file
 If you want to "rollback" your theme check at **lxappearance** command. Also i've tried seemz only on manjaro i3, shit can happen :/ 
+# Demo :) 
+![Alt Text](https://github.com/Tr1g5/seemz/blob/master/seemz_in_action.gif)
